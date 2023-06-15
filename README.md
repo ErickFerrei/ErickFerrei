@@ -3,7 +3,7 @@
 - 🔭 Hoje Trabalho Com Front-End
 - 🌱 Estudando React
 
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/)](https://dsasoftweb.com.br)
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/)](#)
 
 ![ErickFerrei GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickFerrei&show_icons=true&theme=default)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFerrei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
