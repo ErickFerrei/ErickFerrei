@@ -1,7 +1,8 @@
 ### Olá Eu Sou o Erick Lendro 👋
 
 - 🔭 Hoje Trabalho Com Front-End
-- 🌱 Estudando PHP
+- 🌱 Estudando LARAVEL
+- 🖥️ Especializando em Back-End
 
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/)](#)
 
