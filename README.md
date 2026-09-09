@@ -35,69 +35,15 @@ Estou migrando esse conhecimento para a área de **Qualidade de Software (QA)**,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
 
-### 🧪 Ferramentas e Fundamentos de QA
-
-> Marque o que já domina, está estudando ou quer aprender — edite a coluna abaixo conforme sua realidade.
-
-| Ferramenta / Conceito | Status |
-|---|---|
-| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) | 📖 Estudando |
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ⏳ Quero aprender |
-| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ⏳ Quero aprender |
-| ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) | ⏳ Quero aprender |
-| ![TestRail](https://img.shields.io/badge/Gest%C3%A3o%20de%20Testes-3D3D3D?style=flat-square) | ⏳ Quero aprender |
-| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) | 📖 Estudando |
-| **Teste Funcional** | ✅ Domino |
-| **Teste de Regressão** | 📖 Estudando |
-| **Teste Exploratório** | 📖 Estudando |
-| **Escrita de Casos de Teste (Plano/Caso/Suíte)** | 📖 Estudando |
-| **Ciclo de Vida de Bug (Report → Triagem → Retest)** | ✅ Domino |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
-
-### 🔄 Ferramentas e Metodologias de Processos
-
-> Como Analista de Processos, essas são as bases mais usadas na área — ajuste conforme o que você já aplica na Positivo S+.
-
-| Ferramenta / Metodologia | Status |
-|---|---|
-| ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) | 📖 Estudando |
-| ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white) | 📖 Estudando |
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ✅ Domino |
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | 📖 Estudando |
-| **BPMN (Modelagem de Processos)** | 📖 Estudando |
-| **Mapeamento de Fluxos (AS IS / TO BE)** | ✅ Domino |
-| **Indicadores e KPIs de Processo** | ✅ Domino |
-| **ITIL (Gestão de Serviços de TI)** | ⏳ Quero aprender |
-| **Lean / Melhoria Contínua** | 📖 Estudando |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErickFerrei&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickFerrei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ErickFerrei&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFerrei&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
-
-### 📈 Gráfico de contribuições (3D)
-
-<!--START_SECTION:profile-3d-contrib-->
-<!-- Este bloco é preenchido automaticamente pela GitHub Action (veja instruções de configuração) -->
-<!--END_SECTION:profile-3d-contrib-->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickFerrei&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:2C5364&height=3&width=100%"/>
